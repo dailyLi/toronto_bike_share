@@ -28,9 +28,9 @@ Official website: https://bikesharetoronto.com/
 
 Play around with interactive graphs: https://dailyli.github.io/toronto_bike_share/
 
-## Required Packages
+## Packages & documents
 
-The code was written in Jupyter Notebook with Python, using Pandas for data manipulation, and Plotly for visualization.
+The code was written in Jupyter Notebook with Python, using **Pandas** for data manipulation, and **Plotly** for visualization.
 - [Preprocessing.ipynb](https://github.com/dailyLi/toronto_bike_share/blob/main/Preprocessing.ipynb): data cleaning and processing with Jan 2021 dataset
 - [functions.ipynb](https://github.com/dailyLi/toronto_bike_share/blob/main/functions.ipynb): workflows for processing the whole 2021 datasets
 - [Analysis.ipynb](https://github.com/dailyLi/toronto_bike_share/blob/main/Analysis.ipynb): data visualization, analysis and some discussion
