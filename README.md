@@ -13,7 +13,7 @@ Bike Share Toronto was designed to allow users to make short trips around town. 
 There are 6,850 bikes and 625 stations are available throughout Toronto. A station is the strip of bikes that are available around the city, placed based on population and transport needs.
 
 There are two major user categories in the dataset:
-- Annual Member: including Annual 30 Member for $99 (plus HST) per year, and Annual 45 Member for $115 (plus HST). 
+- Annual Member: including Annual 30 Member (unlimited trips under 30 min) per year, and Annual 45 Member (unlimited trips under 45 min).
 - Casual Member: including Single Trip Passes, Day Passes and 3-Day Passes.
 
 Official website: https://bikesharetoronto.com/
@@ -26,7 +26,7 @@ Official website: https://bikesharetoronto.com/
 
 ## Results & Key Findings
 
-Play around with interactive graphs: https://dailyli.github.io/toronto_bike_share/
+Report with interactive graphs: https://dailyli.github.io/toronto_bike_share/
 
 ## Packages & documents
 
