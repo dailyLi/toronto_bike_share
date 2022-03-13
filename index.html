@@ -138,13 +138,19 @@
             <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="visuals/popular-pick-up-stations_byMon.html" height="600" width="100%"></iframe>
         </span>
         
+        <p>In terms of popular stations by user types, we found that more stations were used by Annual members in general, but more Casual members the stations along the lakeshore and on the edge of the share bike service territory.</p>
+        
+        <span style="float:left; width:100%; height: 800px">
+            <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="visuals/popular-pick-up-stations-by-user-type.html" height="600" width="100%"></iframe>
+        </span>
+        
     <h2>Notes: Data cleaning & processing methods</h2>
         
     <li>Remove entries where Trip Duration = 0. These might be some errors or technical issues when the bikes were released.</li>
         
     <li>Convert start and end time into date format for easier extraction and calculation</li>
         
-    <li>Calculate distance and average speed for each trip: not a very precise calcluation as the distance was not straightline between two points, and users were not constantly cycling, but we can still use it as a reference. In this calculation we exclouded the round trips (same start and end station)</li>
+    <li>Calculate distance and average speed for each trip: not a very precise calcluation as the distance was not straightline between two points, and users were not constantly cycling, but we can still use it as a reference. In this calculation we excluded the round trips (same start and end station)</li>
         
     <h2>Codes</h2>
     
