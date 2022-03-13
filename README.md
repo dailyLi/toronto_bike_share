@@ -1,5 +1,7 @@
 # Bike Share Toronto 2021 Data Analysis
 
+Tl;dr: https://dailyli.github.io/toronto_bike_share/
+
 ## Objective
 
 - To better understand how people in Toronto are using Bike Share
