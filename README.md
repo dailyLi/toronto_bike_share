@@ -6,7 +6,7 @@ Tl;dr: https://dailyli.github.io/toronto_bike_share/
 
 - To better understand how people in Toronto are using Bike Share
 - To highlight some usage patterns for potential and exsiting users (e.g. popular routes, rush hours, avg speed, etc.)
-- To generate insights for maintenance and management (e.g. allocating bikes, identify broken bikes & stations, etc.)
+- To generate insights for maintenance and management (e.g. allocating bikes, identify broken bikes & stations, etc.) - still working on it!
 
 ## Background
 
